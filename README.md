@@ -18,8 +18,7 @@
 
 - 🌱 I’m currently learning **Web devlopment**
 
-- 💬 Ask me about **Web Development,Devops,Cloud**                                                                    
-                                                      - ![giphy](https://user-images.githubusercontent.com/96458739/193414469-225b12a6-1188-44d4-aa68-5c0edaa3ee09.gif)
+- 💬 Ask me about **Web Development,Devops,Cloud**                                   ![Untitled design (1)](https://user-images.githubusercontent.com/96458739/193414981-7379fc8c-6050-41a4-b3d8-2f55b0ab5b4f.gif)
 - 📫 How to reach me **Rishabhpratapsingh52596@gmail.com**
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug. .....**
