@@ -18,9 +18,6 @@
 
 - 🌱 I’m currently learning **Web devlopment**
 
-- 📝 I regularly write articles on [Amica Blogs](Amica Blogs)![ezgif com-gif-maker](https://user-images.githubusercontent.com/96458739/193414123-63f86d96-52d0-4c4b-988f-7feef39d8049.gif)
-
-
 - 💬 Ask me about **Web Development,Devops,Cloud,**
 
 - 📫 How to reach me **Rishabhpratapsingh52596@gmail.com**
