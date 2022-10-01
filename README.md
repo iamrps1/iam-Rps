@@ -1,9 +1,9 @@
 ![1652990878932](https://user-images.githubusercontent.com/96458739/193415535-30fac3a8-324c-4455-aacd-70ff6a1ed190.jpg)
 
-### Hi there 👋
+### iamrps 👋
 
 
-<h1 align="center">Hi 👋, I'm Rishabh Pratap Singh</h1>
+<h1 align="center">Hi there 👋, I'm Rishabh Pratap Singh</h1>
 <h3 align="center">A passionate devops enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-rps&label=Profile%20views&color=0e75b6&style=flat" alt="iam-rps" /> </p>
